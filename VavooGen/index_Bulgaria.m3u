@@ -1308,6 +1308,13 @@ https://vavoo.to/play3/91910041.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/618262489.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="TVEvropa.bg" tvg-name="TV EVROPA (6)" tvg-logo="/live2/logo/2473349072.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV EVROPA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2473349072.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="V2BeatTV.bg" tvg-name="V2BEAT TV (6)" tvg-logo="/live2/logo/3938292130.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",V2BEAT TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
