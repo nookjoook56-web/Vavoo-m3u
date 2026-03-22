@@ -377,6 +377,13 @@ https://vavoo.to/play3/2428853789.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/450526005.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2 (6)" tvg-logo="/live2/logo/1568276965.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1568276965.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3 (6)" tvg-logo="/live2/logo/1612326997.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -706,6 +713,20 @@ https://vavoo.to/play3/1529036918.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1715694022.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-name="SPORT KLUB 4 (6)" tvg-logo="/live2/logo/3563304406.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT KLUB 4 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3563304406.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="SportKlub5.hr" tvg-name="SPORT KLUB 5 (6)" tvg-logo="/live2/logo/3909327974.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT KLUB 5 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3909327974.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub6.hr" tvg-name="SPORT KLUB 6 (6)" tvg-logo="" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT KLUB 6 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
