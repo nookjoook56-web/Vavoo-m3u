@@ -1042,6 +1042,13 @@ https://vavoo.to/play3/1530408217.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/21081072.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="Jimjam.bg" tvg-name="JIMJAM (6)" tvg-logo="/live2/logo/3815634294.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",JIMJAM (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3815634294.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Kanal0.bg" tvg-name="KANAL 0 (6)" tvg-logo="/live2/logo/880817015.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KANAL 0 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
