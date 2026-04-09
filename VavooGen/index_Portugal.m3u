@@ -314,6 +314,13 @@ https://vavoo.to/play3/575701033.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2551829420.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="DisneyPixar.pt" tvg-name="DISNEY+ PIXAR (6)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISNEY+ PIXAR (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1616464273.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DiziChannel.pt" tvg-name="DIZI CHANNEL (6)" tvg-logo="/live2/logo/3318391725.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIZI CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1007,6 +1014,13 @@ https://vavoo.to/play3/811339888.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2647788125.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="TVI AFRICA (6)" tvg-logo="/live2/logo/2391771240.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVI AFRICA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2391771240.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICÇÃO (6)" tvg-logo="/live2/logo/956832485.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVI FICÇÃO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1084,6 +1098,13 @@ https://vavoo.to/play3/380717209.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3143462075.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN MOVIES HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN MOVIES HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2370723370.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AxnWhite.pt" tvg-name="AXN WHITE HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN WHITE HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1273,13 +1294,6 @@ https://vavoo.to/play3/3523975641.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/513907015.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSport6.pt" tvg-name="ELEVEN SPORT 6 (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ELEVEN SPORT 6 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3725483887.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ELEVEN SPORTS 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1798,20 +1812,6 @@ https://vavoo.to/play3/3458328824.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1276326705.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT TV 5 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1747400167.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SportTvNba.pt" tvg-name="SPORT TV NBA HD (1)" tvg-logo="/live2/logo/3476204840.png" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT TV NBA HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3476204840.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SportTvNba.pt" tvg-name="SPORT TV NBA HD (BACKUP) (1)" tvg-logo="" group-title="Portugal" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SPORT TV NBA HD (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
