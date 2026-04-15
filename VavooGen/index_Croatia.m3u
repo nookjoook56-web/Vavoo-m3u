@@ -440,6 +440,13 @@ https://vavoo.to/play3/715398475.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4199606703.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="KLAPE I TAMBURE TV (6)" tvg-logo="/live2/logo/1905749171.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KLAPE I TAMBURE TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1905749171.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Klasik.hr" tvg-name="KLASIK TV (6)" tvg-logo="/live2/logo/888503192.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KLASIK TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
