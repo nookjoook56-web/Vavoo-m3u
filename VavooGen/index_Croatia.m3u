@@ -251,6 +251,13 @@ https://vavoo.to/play3/73167267.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3805727741.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.hr" tvg-name="DISCOVERY WORLD (6)" tvg-logo="/live2/logo/3102386342.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY WORLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3102386342.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Diva.hr" tvg-name="DIVA (6)" tvg-logo="/live2/logo/1809205758.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIVA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -370,6 +377,13 @@ https://vavoo.to/play3/2428853789.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/450526005.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2 (6)" tvg-logo="/live2/logo/1568276965.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1568276965.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3 (6)" tvg-logo="/live2/logo/1612326997.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -468,6 +482,13 @@ https://vavoo.to/play3/2851193921.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2584643790.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="M1FilmGold.hr" tvg-name="M1 FILM GOLD (6)" tvg-logo="/live2/logo/3781789209.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",M1 FILM GOLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3781789209.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.hr" tvg-name="MAX SPORT 1 (6)" tvg-logo="/live2/logo/1493433126.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MAX SPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -496,13 +517,6 @@ https://vavoo.to/play3/3565824619.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3535809031.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Mtv.hr" tvg-name="MTV (6)" tvg-logo="/live2/logo/1281547581.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1281547581.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 (6)" tvg-logo="/live2/logo/3404662127.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",N1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
