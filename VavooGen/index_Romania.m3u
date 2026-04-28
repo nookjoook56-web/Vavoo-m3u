@@ -97,6 +97,13 @@ https://vavoo.to/play3/1831742567.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4227017240.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3514626686.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AXN.Spin.ba" tvg-name="AXN SPIN (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN SPIN (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -258,13 +265,6 @@ https://vavoo.to/play3/2050981665.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2022472244.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Filmbox.ro" tvg-name="FILMBOX (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FILMBOX (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2720648266.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="FishingHunting.ro" tvg-name="FISHING & HUNTING (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FISHING & HUNTING (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -314,13 +314,6 @@ https://vavoo.to/play3/83636965.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1338285052.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="HitChannel.ro" tvg-name="HIT CHANNEL (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HIT CHANNEL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3650845286.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="IMPACT TV DANCE (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",IMPACT TV DANCE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -734,13 +727,6 @@ https://vavoo.to/play3/3576767611.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1671967899.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CBSReality.ro" tvg-name="CBS REALITY (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CBS REALITY (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/229997317.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CineMaraton.ro" tvg-name="CINEMARATON HD (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMARATON HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -804,6 +790,20 @@ https://vavoo.to/play3/2768290645.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3213830486.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="DIGI SPORT 1 (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIGI SPORT 1 (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1314204576.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="DIGI SPORT 1 HD (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIGI SPORT 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3174529991.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="DIGI SPORT 3 (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIGI SPORT 3 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -881,6 +881,13 @@ https://vavoo.to/play3/3166915380.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2824217324.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportRo.ro" tvg-name="EXTREME SPORT RO (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EXTREME SPORT RO (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/388462731.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Fightbox.ro" tvg-name="FIGHTBOX HD (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FIGHTBOX HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -937,6 +944,13 @@ https://vavoo.to/play3/3493794502.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3381201599.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="Megamax.ro" tvg-name="MEGAMAX (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MEGAMAX (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3818331108.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.ro" tvg-name="MINIMAX (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MINIMAX (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
