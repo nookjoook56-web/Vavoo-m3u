@@ -181,13 +181,6 @@ https://vavoo.to/play3/2956924156.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2371829068.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusExtra4.pl" tvg-name="CANAL+ EXTRA 4 (6)" tvg-logo="/live2/logo/1065345372.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL+ EXTRA 4 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1065345372.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusExtra5.pl" tvg-name="CANAL+ EXTRA 5 (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL+ EXTRA 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -195,13 +188,6 @@ https://vavoo.to/play3/1065345372.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/35637484.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusExtra6.pl" tvg-name="CANAL+ EXTRA 6 (6)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL+ EXTRA 6 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1170190908.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="CANAL+ FILM (6)" tvg-logo="/live2/logo/4089386856.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL+ FILM (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1280,13 +1266,6 @@ https://vavoo.to/play3/848096719.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3067271393.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TvpHistory.pl" tvg-name="TVP HISTORY (6)" tvg-logo="/live2/logo/2409796230.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP HISTORY (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2409796230.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP INFO (6)" tvg-logo="/live2/logo/3672476872.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP INFO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1427,6 +1406,13 @@ https://vavoo.to/play3/3971783236.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/142003077.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="4FunGoldHits.pl" tvg-name="4FUN GOLD HITS (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4FUN GOLD HITS (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1043321365.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4FUN.TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",4FUN.TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1441,34 +1427,6 @@ https://vavoo.to/play3/524579377.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2855812815.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AleKinoPlus.pl" tvg-name="ALE KINO HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ALE KINO HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/886061076.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Amc.pl" tvg-name="AMC (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AMC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/683480287.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ANIMAL PLANET HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1537256341.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="AtmRozrywkaTv.pl" tvg-name="ATM ROZRYWKA TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ATM ROZRYWKA TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/353869275.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Axn.pl" tvg-name="AXN (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AXN (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1539,13 +1497,6 @@ https://vavoo.to/play3/4278133345.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2812394681.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CanalFamily.pl" tvg-name="CANAL FAMILY HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL FAMILY HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3412671176.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="CANAL FILM HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL FILM HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1553,13 +1504,6 @@ https://vavoo.to/play3/3412671176.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1926452306.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Canal.pl" tvg-name="CANAL HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/867185230.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusNow.pl" tvg-name="CANAL NOW (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL NOW (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1721,13 +1665,6 @@ https://vavoo.to/play3/3454373332.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2844057629.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxPoland15.pl" tvg-name="CINEMAX POLAND 15 FHD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX POLAND 15 FHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3204445278.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxPoland16.pl" tvg-name="CINEMAX POLAND 16 FHD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX POLAND 16 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1777,6 +1714,13 @@ https://vavoo.to/play3/2699407729.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3080627506.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxPoland6.pl" tvg-name="CINEMAX POLAND 6 FHD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX POLAND 6 FHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2383649271.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxPoland7.pl" tvg-name="CINEMAX POLAND 7 FHD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX POLAND 7 FHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2211,13 +2155,6 @@ https://vavoo.to/play3/1758414812.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2092513799.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="MtvRocks.pl" tvg-name="MTV ROCKS (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV ROCKS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/823658581.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="NAT GEO PEOPLE HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO PEOPLE HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2225,13 +2162,6 @@ https://vavoo.to/play3/823658581.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3276516180.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeo.pl" tvg-name="NATIONAL GEO (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEO (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/452217107.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="NATIONAL GEOGRAPHIC WILD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NATIONAL GEOGRAPHIC WILD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2337,13 +2267,6 @@ https://vavoo.to/play3/4033823883.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/225476081.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="POLSAT NEWS HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT NEWS HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3360952949.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="POLSAT PLAY HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT PLAY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2407,13 +2330,6 @@ https://vavoo.to/play3/23614419.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4127619445.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="POLSAT SPORT NEWS HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT SPORT NEWS HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1366223122.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="POLSAT SPORT PREMIUM 1 (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT SPORT PREMIUM 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2449,13 +2365,6 @@ https://vavoo.to/play3/4175341915.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1313860860.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" tvg-name="POLSAT SPORT PREMIUM 4 PPV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT SPORT PREMIUM 4 PPV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/707690805.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" tvg-name="POLSAT SPORT PREMIUM 5 PPV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT SPORT PREMIUM 5 PPV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2463,20 +2372,6 @@ https://vavoo.to/play3/707690805.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1029018998.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" tvg-name="POLSAT SPORT PREMIUM 6 PPV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT SPORT PREMIUM 6 PPV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/81308083.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="POLSAT VIASAT EXPLORE HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT VIASAT EXPLORE HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4029165915.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="POLSAT VIASAT HISTORY HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT VIASAT HISTORY HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2484,20 +2379,6 @@ https://vavoo.to/play3/4029165915.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1727851845.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="POLSAT VIASAT NATURE HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",POLSAT VIASAT NATURE HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3569434675.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="PULS 2 (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PULS 2 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1567907399.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Pvod.pl" tvg-name="PVOD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PVOD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2505,13 +2386,6 @@ https://vavoo.to/play3/1567907399.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/471123342.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="ROMANCE TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ROMANCE TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2937050383.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SciFi.pl" tvg-name="SCIFI HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SCIFI HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2568,13 +2442,6 @@ https://vavoo.to/play3/3165750608.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1091671947.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Superstacja.pl" tvg-name="SUPERSTACJA (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SUPERSTACJA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4281111174.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-name="TELETOON HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELETOON HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2589,13 +2456,6 @@ https://vavoo.to/play3/835101687.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3261680213.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TraceTv.pl" tvg-name="TRACE TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRACE TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3533896405.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="TRAVEL CHANNEL HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TRAVEL CHANNEL HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2603,13 +2463,6 @@ https://vavoo.to/play3/3533896405.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2774595223.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TTV HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3777664371.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV OKAZJE (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV OKAZJE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2624,13 +2477,6 @@ https://vavoo.to/play3/463041335.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1775095558.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV REPUBLIKA (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV REPUBLIKA (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3581908167.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4 HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV4 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2694,6 +2540,13 @@ https://vavoo.to/play3/2456969730.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2312587144.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP 2 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/123224171.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP ABC (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2701,13 +2554,6 @@ https://vavoo.to/play3/2312587144.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3887683423.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/162772082.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP HISTORIA (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP HISTORIA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2736,13 +2582,6 @@ https://vavoo.to/play3/3100696434.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4266072851.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP SERIALE (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP SERIALE (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1463467003.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP SPORT (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVP SPORT (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2757,13 +2596,6 @@ https://vavoo.to/play3/3854377544.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1708469111.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Tvr.pl" tvg-name="TVR (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TVR (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/701164508.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX MUSIC TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VOX MUSIC TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2778,24 +2610,3 @@ https://vavoo.to/play3/2081392984.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1389738905.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="WPOLSCE.PL (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",WPOLSCE.PL (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2900010789.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ZestTv.pl" tvg-name="ZEST TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZEST TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/948919096.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="ZOOM TV (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZOOM TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/112021652.m3u8/index.m3u8
