@@ -307,6 +307,13 @@ https://vavoo.to/play3/3497040704.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1257087524.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS REALITY (6)" tvg-logo="/live2/logo/1553020901.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CBS REALITY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1553020901.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="CINEMAX (6)" tvg-logo="/live2/logo/3387518871.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1049,13 +1056,6 @@ https://vavoo.to/play3/1548922372.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1575848975.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV (6)" tvg-logo="/live2/logo/467088896.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TTV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/467088896.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 (6)" tvg-logo="/live2/logo/1366935147.png" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV 4 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1609,6 +1609,20 @@ https://vavoo.to/play3/624101167.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3232832013.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL SPORT 2 HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL SPORT 2 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1312693742.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="CANAL SPORT 2 HD (BACKUP) (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL SPORT 2 HD (BACKUP) (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2875517467.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="CANAL SPORT 3 HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CANAL SPORT 3 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2127,6 +2141,13 @@ https://vavoo.to/play3/3085053385.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1305944181.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX COMEDY HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FOX COMEDY HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3593975768.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" tvg-name="FOX HD (1)" tvg-logo="" group-title="Poland" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FOX HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
