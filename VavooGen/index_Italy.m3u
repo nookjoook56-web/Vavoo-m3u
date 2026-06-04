@@ -958,6 +958,13 @@ https://vavoo.to/play3/3701871205.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/445158856.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI SPORT TV (6)" tvg-logo="/live2/logo/1351631603.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ACI SPORT TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1351631603.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="ALMA TV (6)" tvg-logo="/live2/logo/4131113723.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ALMA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1357,6 +1364,13 @@ https://vavoo.to/play3/1100261415.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1668185301.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport5Timvision.it" tvg-name="EUROSPORT 5 TIMVISION (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 5 TIMVISION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3667240765.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport6Timvision.it" tvg-name="EUROSPORT 6 TIMVISION (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 6 TIMVISION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1427,13 +1441,6 @@ https://vavoo.to/play3/2373936189.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2116902817.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="GOLD TV (6)" tvg-logo="/live2/logo/2854396316.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GOLD TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2854396316.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Granducato.it" tvg-name="GRANDUCATO (6)" tvg-logo="/live2/logo/942153014.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GRANDUCATO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2092,6 +2099,13 @@ https://vavoo.to/play3/2890008905.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1820997555.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO (6)" tvg-logo="/live2/logo/2872151911.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY CINEMA UNO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2872151911.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="SkyCrime.it" tvg-name="SKY CRIME (6)" tvg-logo="/live2/logo/354961873.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY CRIME (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
