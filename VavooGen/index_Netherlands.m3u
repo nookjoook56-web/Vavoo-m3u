@@ -657,6 +657,13 @@ https://vavoo.to/play3/4037345245.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2145651325.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="RtvArnhem.nl" tvg-name="RTV ARNHEM (6)" tvg-logo="/live2/logo/2748829730.png" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RTV ARNHEM (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2748829730.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="RTVConnectTV.nl" tvg-name="RTV CONNECT TV (6)" tvg-logo="/live2/logo/1844152054.png" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RTV CONNECT TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -748,13 +755,6 @@ https://vavoo.to/play3/1621703509.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4110941162.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="SaltoMaLive.nl" tvg-name="SALTO MA LIVE (6)" tvg-logo="" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SALTO MA LIVE (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/180554669.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Samen1TV.nl" tvg-name="SAMEN1 TV (6)" tvg-logo="/live2/logo/10016112.png" group-title="Netherlands" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SAMEN1 TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
