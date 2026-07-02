@@ -391,6 +391,13 @@ https://vavoo.to/play3/1606160440.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2523527914.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="ArenaAction.bg" tvg-name="ARENA ACTION (6)" tvg-logo="/live2/logo/2601261084.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ARENA ACTION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2601261084.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ArenaComedy.bg" tvg-name="ARENA COMEDY (6)" tvg-logo="/live2/logo/1704902672.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ARENA COMEDY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -489,6 +496,13 @@ https://vavoo.to/play3/3988717339.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3253967644.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="CODE FASHION TV (6)" tvg-logo="/live2/logo/1461004363.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CODE FASHION TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1461004363.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="CODE HEALTH TV (6)" tvg-logo="/live2/logo/198766374.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CODE HEALTH TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
