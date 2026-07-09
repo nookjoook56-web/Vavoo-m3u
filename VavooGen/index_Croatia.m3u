@@ -188,6 +188,13 @@ https://vavoo.to/play3/755040508.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2277793336.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CineStarTVPremiere2.hr" tvg-name="CINESTAR TV PREMIERE 2 (6)" tvg-logo="/live2/logo/3227788520.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINESTAR TV PREMIERE 2 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3227788520.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV (6)" tvg-logo="/live2/logo/184747089.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CMC TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -202,20 +209,6 @@ https://vavoo.to/play3/184747089.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/115056047.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CroMaxSelect3.hr" tvg-name="CRO MAX SELECT 3 (6)" tvg-logo="/live2/logo/2043497956.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CRO MAX SELECT 3 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2043497956.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="CroMaxSelect4.hr" tvg-name="CRO MAX SELECT 4 (6)" tvg-logo="/live2/logo/3421344244.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CRO MAX SELECT 4 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3421344244.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="CroMaxSelect5.hr" tvg-name="CRO MAX SELECT 5 (6)" tvg-logo="/live2/logo/4136482884.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CRO MAX SELECT 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -237,6 +230,13 @@ https://vavoo.to/play3/73167267.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3805727741.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.hr" tvg-name="DISCOVERY WORLD (6)" tvg-logo="/live2/logo/3102386342.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY WORLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3102386342.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Diva.hr" tvg-name="DIVA (6)" tvg-logo="/live2/logo/1809205758.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DIVA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -468,6 +468,20 @@ https://vavoo.to/play3/2189644056.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2851193921.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="M1Film.hr" tvg-name="M1 FILM (6)" tvg-logo="/live2/logo/2584643790.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",M1 FILM (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2584643790.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="M1FilmGold.hr" tvg-name="M1 FILM GOLD (6)" tvg-logo="/live2/logo/3781789209.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",M1 FILM GOLD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3781789209.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.hr" tvg-name="MAX SPORT 1 (6)" tvg-logo="/live2/logo/1493433126.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MAX SPORT 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
