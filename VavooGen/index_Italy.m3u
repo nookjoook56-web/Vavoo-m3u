@@ -1119,6 +1119,13 @@ https://vavoo.to/play3/3841982646.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2705627802.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="ByoBlu.it" tvg-name="BYOBLU (6)" tvg-logo="/live2/logo/2826111812.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BYOBLU (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2826111812.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Caccia.it" tvg-name="CACCIA (6)" tvg-logo="/live2/logo/1692155417.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CACCIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1966,6 +1973,13 @@ https://vavoo.to/play3/3789878889.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3147240888.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="RakutenTvScifiItaly.it" tvg-name="RAKUTEN TV SCI-FI ITALY (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAKUTEN TV SCI-FI ITALY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/93275560.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTvTopMoviesItaly.it" tvg-name="RAKUTEN TV TOP MOVIES ITALY (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAKUTEN TV TOP MOVIES ITALY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2722,13 +2736,6 @@ https://vavoo.to/play3/1794299695.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1083984669.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="TeleRama.it" tvg-name="TELERAMA (6)" tvg-logo="/live2/logo/4017608910.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELERAMA (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/4017608910.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Teleromagna.it" tvg-name="TELEROMAGNA (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELEROMAGNA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
