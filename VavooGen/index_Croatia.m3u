@@ -125,6 +125,13 @@ https://vavoo.to/play3/3438430055.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3458882662.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="CbsReality.hr" tvg-name="CBS REALITY (6)" tvg-logo="/live2/logo/2983893657.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CBS REALITY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2983893657.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.hr" tvg-name="CINEMAX (6)" tvg-logo="/live2/logo/3608745038.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINEMAX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
