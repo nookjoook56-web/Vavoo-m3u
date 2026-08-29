@@ -188,6 +188,13 @@ https://vavoo.to/play3/2377470007.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2087129169.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="BbcEarth.ro" tvg-name="BBC EARTH (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC EARTH (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/502532410.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="BOLLYWOOD CLASSIC (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BOLLYWOOD CLASSIC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -692,13 +699,6 @@ https://vavoo.to/play3/3647125806.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2436148460.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="HELLO TASTE (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HELLO TASTE (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/83636965.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="Hgtv.ro" tvg-name="HGTV (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HGTV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -986,13 +986,6 @@ https://vavoo.to/play3/2992909400.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2487673227.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="MUSCEL TV (7)" tvg-logo="/live2/logo/3909115636.png" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MUSCEL TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3909115636.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="N 24 (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",N 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1077,13 +1070,6 @@ https://vavoo.to/play3/3576875795.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/181751695.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="OBSERVATOR NEWS (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",OBSERVATOR NEWS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/130908298.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="OrangeSport1.ro" tvg-name="ORANGE SPORT 1 (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ORANGE SPORT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1245,20 +1231,6 @@ https://vavoo.to/play3/246329770.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2707617826.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PRO TV NEWS (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PRO TV NEWS (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1932473755.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="ProArena.ro" tvg-name="PRO X (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",PRO X (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3367081987.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="REALITATEA PLUS (7)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",REALITATEA PLUS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2078,13 +2050,6 @@ https://vavoo.to/play3/3182795621.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1478995347.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="ROMANIA TV (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ROMANIA TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3723098333.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="TARAF TV (1)" tvg-logo="" group-title="Romania" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TARAF TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
