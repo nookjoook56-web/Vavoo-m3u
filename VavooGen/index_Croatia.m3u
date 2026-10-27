@@ -797,6 +797,13 @@ https://vavoo.to/play3/447784107.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1104725480.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="VIASAT NATURE (6)" tvg-logo="/live2/logo/3720298581.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VIASAT NATURE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3720298581.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="VTV.rs" tvg-name="VTV (6)" tvg-logo="/live2/logo/700126473.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VTV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -811,13 +818,6 @@ https://vavoo.to/play3/700126473.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1386759650.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="Zapad.hr" tvg-name="ZAPAD (6)" tvg-logo="/live2/logo/1812836441.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZAPAD (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1812836441.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ZdravaTv7Hrvatska.hr" tvg-name="ZDRAVA TV 7 HRVATSKA (6)" tvg-logo="/live2/logo/2945780087.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZDRAVA TV 7 HRVATSKA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
