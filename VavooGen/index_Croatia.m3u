@@ -363,6 +363,13 @@ https://vavoo.to/play3/1612326997.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3527078981.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="HrtDocumentary.hr" tvg-name="HRT DOCUMENTARY (6)" tvg-logo="" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT DOCUMENTARY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2263389864.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="HRTInternational.hr" tvg-name="HRT INTERNATIONAL (6)" tvg-logo="/live2/logo/2758437799.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HRT INTERNATIONAL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -818,6 +825,13 @@ https://vavoo.to/play3/700126473.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1386759650.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="Zapad.hr" tvg-name="ZAPAD (6)" tvg-logo="/live2/logo/1812836441.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZAPAD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1812836441.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="ZdravaTv7Hrvatska.hr" tvg-name="ZDRAVA TV 7 HRVATSKA (6)" tvg-logo="/live2/logo/2945780087.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ZDRAVA TV 7 HRVATSKA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
